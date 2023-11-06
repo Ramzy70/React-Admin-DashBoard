@@ -1,3 +1,7 @@
+# React Admin DashBoard
+
+A simple admin dashboard using react with many features like graphs, stats and data base tables, can be used in other project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
